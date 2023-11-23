@@ -1,0 +1,24 @@
+#   etiquetas
+<etiqueta></etiqueta>
+
+1 LAS ETIQUETAS PUEDEN SER DE DOS TIPOS
+    1.1. DE APERTURA Y CIERRE(LA MAYORIA)
+    <p></p>
+    1.2. SELF CLOSSING NO NECESITA CIERRE
+    <IMG/> <INPUT/>
+
+2. PUEDEN TENER ATRIBUTOS
+    <H1 ATRIBUTO="ATRIBUTO AQUI">SOY PRINCIPAL</H1>
+    2.1.OPCIONALES
+    <P CLASS="PARRAFO">LORENGVBHNJKLÑ</P>
+    2.2.OBLIGATORIOS
+    <IMG SRC="RUTA" ALT="MENSAJE POR SI NO CARGA LA IMAGEN"/>
+
+# ENCABEZADOS
+H1-H2-H3-H4-H5-H6
+EN EL DOCUMENTO SOLO PUEDE IR UN H1, POR EL TEMA DE JERARQUIA, LOS DEMAS SI SE PUEDEN REPETIR MAS DE UNA VEZ, SIEMPRE SE TIENE QUE CUIDAR QUE ENCABEZADO SE ELIGE PARA CADA PARTE, YA SI BIEN SE PUEDE CAMBIAR EL FORMATO CON CSS, AL MOMENTO DE CEO ES FUNDAMENTAL.
+
+
+Explicar con concepto y definicion.Etiqueta , tipos de etiqueta(apertura , cierre, self closing , bloque e inline) , atributos , encabezados 
+Subir proyecto a git hub y pasarme la url por interno en teams
+No olvidar crear el repo en publico
